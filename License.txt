@@ -1,0 +1,89 @@
+License Agreement  
+
+Before installing Rustemsoft LLC Opaquer .NET Obfuscator please read carefully terms and conditions of this agreement.
+You will express your consent to be bound by the terms of this Agreement by obtaining or opening Software media package. If you do not agree to all terms of this agreement do not use Software and destroy all copies of Software from your computer.
+
+
+This Software License Agreement (“Agreement”) is a legal contract between the individual or entity (“Customer”) and the software developer (“Developer”) governing the use of the accompanying software product, including any associated media, documentation, updates, or enhancements (“Software”). By installing, accessing, or using Software, Customer agrees to be bound by the terms of this Agreement.
+
+1. Grant of License
+Software is licensed, not sold. Subject to the terms of this Agreement, Developer grants Customer a limited, non-exclusive, non-transferable license to install and use one copy of Software on a single computer. Customer may remove Software from one computer and install it on another, provided that Software is never installed or used on more than one computer at the same time without Developer’s prior written consent.
+
+2. Ownership and Intellectual Property
+Software is protected by copyright laws, international treaties, and other intellectual property protections.
+All rights, title, and interest in and to Software remain exclusively with Developer.
+Customer acquires no ownership rights in Software.
+
+Customer shall not:
+
+modify, translate, adapt, or create derivative works of Software
+attempt to decipher, disassemble, decompile, or reverse engineer Software
+circumvent or interfere with any security, licensing, or activation mechanisms
+reproduce, distribute, or publicly display Software without Developer’s written permission
+
+3. Restrictions on Use
+Customer may not:
+
+rent, lease, sublicense, lend, or commercially exploit Software
+use Software to develop competing products or services
+make copies of Software except for a single archival backup
+distribute Software or make it available to third parties
+use Software in any manner that violates applicable laws or third-party rights
+Any unauthorized use constitutes a material breach of this Agreement.
+
+4. License Activation and Validation
+Software may require online activation or periodic license validation. Customer agrees that Software may automatically connect to Developer’s servers for the purpose of verifying license authenticity.
+Attempts to bypass activation or validation mechanisms are strictly prohibited.
+
+5. Third-Party Assemblies and Content
+Assemblies, executables, or other content accessed, processed, or modified through Software remain the property of their respective owners and may be protected by copyright or other laws.
+This Agreement grants Customer no rights to such third-party content.
+Developer disclaims all liability for Customer’s use or misuse of third-party assemblies or executables.
+
+6. Third-Party Components
+Software may include or rely on third-party libraries or components. Such components are licensed under their respective terms, and Customer agrees to comply with all applicable third-party licenses.
+
+7. Data Collection and Privacy
+Software may collect limited technical information necessary for activation, diagnostics, or performance monitoring.
+No personally identifiable information is collected except as required for licensing or support.
+Customer consents to such data collection solely for the purposes of improving Software functionality and enforcing licensing terms.
+
+8. No Warranties
+Software is provided “as is” without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or suitability for any specific task.
+Developer makes no representation that Software will meet Customer’s requirements or operate without interruption or error.
+Developer is under no obligation to issue updates, patches, or enhancements.
+
+9. High-Risk Use Disclaimer
+Software is not fault-tolerant and is not designed or intended for use in hazardous environments requiring fail-safe performance, including but not limited to nuclear facilities, aircraft navigation, air traffic control, life-support systems, or weapons systems.
+Developer expressly disclaims any warranty of fitness for such high-risk activities.
+
+10. Limitation of Liability
+To the maximum extent permitted by law, Developer and its suppliers shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages, including but not limited to loss of profits, revenue, data, business interruption, or inability to use Software, even if Developer has been advised of the possibility of such damages.
+
+11. Indemnification
+Customer agrees to indemnify, defend, and hold Developer harmless from any claims, damages, liabilities, or expenses arising from Customer’s misuse of Software or violation of this Agreement.
+
+12. Export Compliance
+Customer agrees not to export or re-export Software in violation of applicable export laws or regulations. Customer represents that they are not located in a country subject to embargo or sanctions.
+
+13. Support and Discontinuation
+Unless covered by a separate support agreement, Developer is not obligated to provide technical support.
+Developer reserves the right to discontinue distribution, support, or development of Software at any time without notice.
+
+14. Termination
+Developer may terminate this Agreement at any time by providing notice to Customer. Customer may terminate this Agreement by destroying or permanently erasing all copies of Software.
+Upon termination, Customer must immediately cease all use of Software and destroy all copies.
+Sections relating to intellectual property, restrictions, warranties, liability, and indemnification shall survive termination indefinitely.
+
+15. Governing Law and Jurisdiction
+This Agreement shall be governed by and interpreted in accordance with the laws of the jurisdiction in which Developer is located.
+Any disputes shall be resolved exclusively in the courts of that jurisdiction.
+
+16. Severability
+If any provision of this Agreement is found invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+17. Entire Agreement
+This Agreement constitutes the complete and exclusive statement of the agreement between Developer and Customer and supersedes all prior proposals, understandings, or agreements, whether written or oral.
+
+Copyright © Rustemsoft LLC. All rights reserved.
+
