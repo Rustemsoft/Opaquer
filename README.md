@@ -1,5 +1,7 @@
 Opaquer is an advanced .NET code protection and obfuscation system designed to safeguard commercial applications from reverse engineering, tampering, and intellectual property theft.
 
+Opaquer offers three price models: a free **Basic** version with core obfuscation features, a **Pro** version adding CLI automation, and an **Enterprise** edition with team licensing, offline build support, and high-intensity control flow obfuscation.
+
 <img width="292" height="292" alt="image" src="https://github.com/user-attachments/assets/c79dc57d-7aec-4eb8-a019-c6677761afc3" />
 
 Opaquer .NET Obfuscator offers a comprehensive professional solution for protecting .NET applications, supporting both .NET Core and .NET Framework. By leveraging Opaquer, developers can effectively shield their Microsoft .NET applications from reverse engineering, unauthorized code modifications, and intellectual property theft. The obfuscation process significantly enhances application security by rendering the code unreadable and complex, as the program logic becomes highly confusing after obfuscation. The tool supports a wide range of obfuscation methods, including DLL obfuscation, executable obfuscation, advanced Control Flow obfuscation, String Encryption, Reference obfuscation, and Metadata obfuscation. It ensures that all namespaces, classes, methods, variable names, and custom attributes within the .NET application are effectively obfuscated to prevent decompilation and understanding.
